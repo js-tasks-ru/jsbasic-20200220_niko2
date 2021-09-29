@@ -9,4 +9,3 @@ function makeDiagonalRed(table) {
         row.cells[td++].style.backgroundColor = 'red';
     }
 }
-
